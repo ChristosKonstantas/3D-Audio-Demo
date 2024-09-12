@@ -1,6 +1,6 @@
 # About
 
-This is a demo project on [3D-Audio using Python](https://www.youtube.com/watch?v=a4mpK_2koR4&t=190s)
+This is a demo project on [3D-Audio using Python](https://www.youtube.com/watch?v=a4mpK_2koR4&t=190s) that was created for educational purposes.
 
 # Instructions
 
