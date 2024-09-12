@@ -14,7 +14,7 @@ git clone git@github.com:ChristosKonstantas/3D-Audio-Demo.git
 python -m venv venv
 .\venv\Scripts\activate
 pip install -r requirements.txt
-python main.py
+python binaural_audio_mix.py
 ```
 
 ## Unix/Linux/Mac
@@ -23,7 +23,7 @@ python main.py
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-python3 main.py 
+python3 binaural_audio_mix.py 
 ```
 
 # Datasets used
