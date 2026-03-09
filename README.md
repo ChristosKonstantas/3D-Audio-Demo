@@ -33,7 +33,6 @@ git clone git@github.com:ChristosKonstantas/3D-Audio-Demo.git
 python -m venv venv
 .\venv\Scripts\activate
 pip install -r requirements.txt
-python binaural_audio_mix.py
 ```
 
 ## Unix/Linux/Mac
@@ -42,7 +41,12 @@ python binaural_audio_mix.py
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-python3 binaural_audio_mix.py 
+```
+
+or
+
+``` 
+pip install -e .
 ```
 
 ## SOFA dataset used
